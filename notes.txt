@@ -1,0 +1,7 @@
+.::Django Ajax practice::.
+
+What is the difference between starting the project in the same directory, vs creating a new dir for the project ? . 
+Well, remember that the main project name does not really matter. So, if we create the project in the same directory, then we dont have to create all the new files in the newly created dir that django-admin created for us. 
+Makes sense?
+Because Django Admin will create a new project dir, with the main-app dir inside with the same name.
+What are the benefits then?
